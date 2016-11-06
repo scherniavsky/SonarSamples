@@ -14,8 +14,9 @@ public String toto() {
         }
 
 public String tofu() {
-        return message3;
-        }
+    
+  return message3;
+    }
 
 public void uncoveredMethod() {
         System.out.println(foo());
