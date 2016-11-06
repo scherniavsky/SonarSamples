@@ -13,6 +13,10 @@ public String toto() {
         return message2;
         }
 
+public String tofu() {
+        return message3;
+        }
+
 public void uncoveredMethod() {
         System.out.println(foo());
         }
